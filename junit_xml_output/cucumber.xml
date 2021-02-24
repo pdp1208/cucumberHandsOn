@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.376969">
+<testcase classname="Hooks in Cucumber" name="Add New Customer" time="0.371718">
+<system-out><![CDATA[Given User is on Add Customer Page..........................................passed
+When User Added all Details.................................................passed
+Then Customer is added......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hooks in Cucumber" name="Edit Customer" time="0.003175">
+<system-out><![CDATA[Given User is on Edit Customer Page.........................................passed
+When User Edit contact details..............................................passed
+Then Contact Details updated................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hooks in Cucumber" name="Delete Customer" time="0.002076">
+<system-out><![CDATA[Given User is on Delete Customer Page.......................................passed
+When User Delete Customer...................................................passed
+Then Customer Deleted.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
